@@ -23,8 +23,10 @@ Download or clone this repository.
 Open Hr_Analytics.pbix using Microsoft Power BI Desktop.
 Use the report pages, filters, and slicers to explore the dashboard.
 Repository Structure
-HR-Analytics-Dashboard/
+# HR-Analytics-Dashboard
+
 ├── Hr_Analytics.pbix
+
 └── README.md
 # Key Learnings
 Building interactive reports in Power BI.
